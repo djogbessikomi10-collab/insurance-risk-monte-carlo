@@ -32,6 +32,16 @@ Les simulations permettent d’estimer :
 - la Value at Risk (VaR) à 95 %
 - la distribution des pertes simulées
 
+
+## Figures
+
+Le projet contient plusieurs visualisations des pertes simulées :
+
+- histogramme des pertes annuelles
+- densité empirique
+- boxplot des pertes
+- convergence de la simulation Monte Carlo
+  
 ## Contenu du projet
 
 - `rapport/` : rapport PDF du projet
